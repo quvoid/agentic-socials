@@ -1,0 +1,6 @@
+yt-dlp
+openpyxl
+transformers
+torch
+sentencepiece
+protobuf
