@@ -1,0 +1,6 @@
+*/output/
+*/data/*
+!*/data/.gitkeep
+*cookies*.json
+.venv/
+__pycache__/
